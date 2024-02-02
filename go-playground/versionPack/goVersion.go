@@ -1,4 +1,4 @@
-package myVersion
+package versionPack
 
 import "runtime"
 
