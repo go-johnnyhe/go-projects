@@ -3,7 +3,7 @@ package main
 import (
 "runtime"
 "fmt" 
-"github.com/go-johnnyhe/go-projects/blob/main/go-playground/versionPack"
+"github.com/go-johnnyhe/go-projects/go-playground/versionPack"
 )
 func main() {
 	fmt.Println("I am happy today:)")
