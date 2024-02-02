@@ -12,5 +12,5 @@ func main() {
 
 	fmt.Println(runtime.Version())
 
-	myVersion.Version()
+	versionPack.Version()
 }
